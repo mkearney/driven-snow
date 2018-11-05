@@ -4,10 +4,10 @@
 ## Theme
 
 **driven-snow** is a light theme that maximizes space by stripping away some of
-the point/click interface tools. This theme is not recommended if you often use
-Rstudio tool bars (instead of, say, keyboard shortcuts). It's also a
-work-in-progress–stripping away non-ID'd elements of the UI via CSS is an
-inexact/hacky solution, so no promises😜!
+the point/click toolbars that come standard with the Rstudio interface. It is 
+not recommended for users who often rely on Rstudio toolbars (instead of, say,
+keyboard shortcuts). It's also a work-in-progress–stripping away non-ID'd
+elements of the UI via CSS is an inexact/hacky solution, so no promises😜!
 
 To add the theme to your Rstudio desktop, you can either download the 
 [theme file](theme/drive-snow.rstheme) and add to the Rstudio theme folder or
