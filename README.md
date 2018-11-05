@@ -1,2 +1,2 @@
 # driven-snow
-A light, bare-bones custom theme for Rstudio
+❄️A light, bare-bones custom theme for Rstudio❄️
