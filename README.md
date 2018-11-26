@@ -15,12 +15,12 @@ try the following code (note: this code can also be adapted to add a local
 version of the theme).
 
 ``` r
-## add theme and apply immediately
+### add theme and apply immediately
 rstudioapi::addTheme(
-  "https://raw.githubusercontent.com/mkearney/driven-snow/master/theme/driven-snow.rstheme",
+  tfse::github_raw("theme/driven-snow.rstheme", repo = "mkearney/driven-snow"),
   apply = TRUE
 )
-```
+``
 
 ## Fonts
 
