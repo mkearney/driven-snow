@@ -1,5 +1,6 @@
-/* rs-theme-name: mwk */
+/* rs-theme-name: Driven Snow */
 /* rs-theme-is-dark: FALSE */
+
 body {
   font-family: 'Helvetica Neue', sans-serif;
 }
@@ -22,7 +23,7 @@ body {
 .ace_cursor {
   color: black;
 }
-        
+
 .ace_invisible {
   color: rgb(191, 191, 191);
 }
@@ -747,12 +748,12 @@ table.GOLWFGSBI1C.rstudio-themes-background {
   display:none
 }
 
-table.GOLWFGSBHU.rstheme_secondaryToolbar {
+/*table.GOLWFGSBHU.rstheme_secondaryToolbar {
   display: none
-}
+}*/
 
 #rstudio_container > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(2) > div > div > div:nth-child(2) > div > div:nth-child(6) > div > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(2) > div > div:nth-child(2) > div > div > div:nth-child(2) > div > div:nth-child(4) {
-  top: 24px !important  
+  top: 24px !important
 }
 
 #rstudio_container > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(2) > div > div > div:nth-child(4) > div > div:nth-child(6) > div > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(2) > div > div:nth-child(2) > div > div > div:nth-child(2) > div > div:nth-child(2) {
@@ -812,3 +813,10 @@ table.GOLWFGSBHU.rstheme_secondaryToolbar {
   display: none
 }
 
+#rstudio_container > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(4) > div > div > div:nth-child(2) > div > div:nth-child(6) > div > div:nth-child(2) > div > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(2) > div > div:nth-child(5) {
+  top: 56px !important;
+}
+
+.macintosh .GOLWFGSBHIC {
+  margin-top: 0
+}
