@@ -24,7 +24,7 @@ rstudioapi::addTheme(
 
 ## Fonts
 
-**drive-snow** changes the default UI theme from Lucida Grande to either 
+**driven-snow** changes the default UI theme from Lucida Grande to either 
 Helvetica or the system's default sans-serif font. The recommended monospace 
 font is **L-Consolas** (Consolas with ligatures), which can be found in the 
 [fonts](fonts) folder.
