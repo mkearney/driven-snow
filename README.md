@@ -20,7 +20,7 @@ rstudioapi::addTheme(
   tfse::github_raw("theme/driven-snow.rstheme", repo = "mkearney/driven-snow"),
   apply = TRUE
 )
-``
+```
 
 ## Fonts
 
