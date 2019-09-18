@@ -4,6 +4,9 @@
 body {
   font-family: 'Helvetica Neue', sans-serif;
 }
+.ace_text-layer {
+  font-family: 'L-Consolas', 'Fira Code', Hack, Consolas, Inconsolata, monospace, !important;
+}
 .ace_gutter {
   background: #f0f0f0;
   color: #333;
@@ -14,16 +17,16 @@ body {
   background: #e8e8e8;
 }
 .ace_fold {
-    background-color: #6B72E6;
+  background-color: #6B72E6;
 }
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
   background-color: #FFFFFF;
   color: black;
 }
 .ace_cursor {
-  color: black;
+  color: #bb0066;
+  border-left-width: 5px;
 }
-
 .ace_invisible {
   color: rgb(191, 191, 191);
 }
@@ -48,7 +51,7 @@ body {
   color: red;
 }
 .ace_support.ace_function {
-  color: rgb(60, 86, 114);
+  color: rgb(60, 86, 128);
 }
 .ace_support.ace_constant {
   color: rgb(6, 150, 14);
